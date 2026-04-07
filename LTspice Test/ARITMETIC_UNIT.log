@@ -1,0 +1,1014 @@
+Circuit: *** SPICE deck for cell Aritmetic_Unit{lay} from library Project
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+WARNING: Node AND2_2OU@0:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@0:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@0:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@0:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@0:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@0:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@1:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@1:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@1:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@1:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@1:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@1:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@2:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@2:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@2:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@2:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@2:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@2:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@3:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@3:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@3:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@3:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@3:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@3:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@4:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@4:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@4:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@4:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@4:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@4:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@5:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@5:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@5:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@5:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@5:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@5:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@6:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@6:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@6:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@6:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@6:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@6:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@7:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@7:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@7:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@7:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@7:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@7:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@8:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@8:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@8:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@8:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@8:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@8:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@9:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@9:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@9:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@9:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@9:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@9:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@10:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@10:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@10:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@10:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@10:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@10:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@11:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@11:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@11:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@11:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@11:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@11:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@12:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@12:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@12:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@12:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@12:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@12:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@13:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@13:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@13:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@13:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@13:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@13:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@14:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@14:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@14:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@14:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@14:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@14:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@15:INVERTER@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@15:INVERTER@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@15:NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@15:NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@15:NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node AND2_2OU@15:NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:INVERTER@4:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:INVERTER@4:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:INVERTER@5:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:INVERTER@5:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:MUX@0:NMOS@8_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:MUX@0:NMOS@9_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:MUX@0:PMOS@9_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:MUX@0:PMOS@10_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@6:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@6:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@6:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@6:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@7:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@7:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@7:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@7:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@8:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@8:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@8:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@9:XOR@8:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:INVERTER@4:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:INVERTER@4:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:INVERTER@5:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:INVERTER@5:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:MUX@0:NMOS@8_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:MUX@0:NMOS@9_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:MUX@0:PMOS@9_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:MUX@0:PMOS@10_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@6:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@6:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@6:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@6:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@7:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@7:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@7:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@7:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@8:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@8:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@8:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@10:XOR@8:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:INVERTER@4:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:INVERTER@4:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:INVERTER@5:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:INVERTER@5:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:MUX@0:NMOS@8_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:MUX@0:NMOS@9_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:MUX@0:PMOS@9_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:MUX@0:PMOS@10_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@6:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@6:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@6:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@6:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@7:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@7:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@7:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@7:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@8:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@8:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@8:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@11:XOR@8:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:INVERTER@4:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:INVERTER@4:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:INVERTER@5:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:INVERTER@5:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:MUX@0:NMOS@8_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:MUX@0:NMOS@9_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:MUX@0:PMOS@9_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:MUX@0:PMOS@10_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@6:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@6:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@6:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@6:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@7:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@7:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@7:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@7:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@8:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@8:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@8:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@12:XOR@8:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:INVERTER@4:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:INVERTER@4:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:INVERTER@5:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:INVERTER@5:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:MUX@0:NMOS@8_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:MUX@0:NMOS@9_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:MUX@0:PMOS@9_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:MUX@0:PMOS@10_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@6:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@6:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@6:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@6:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@7:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@7:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@7:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@7:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@8:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@8:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@8:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@13:XOR@8:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:INVERTER@4:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:INVERTER@4:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:INVERTER@5:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:INVERTER@5:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:MUX@0:NMOS@8_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:MUX@0:NMOS@9_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:MUX@0:PMOS@9_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:MUX@0:PMOS@10_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@6:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@6:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@6:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@6:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@7:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@7:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@7:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@7:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@8:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@8:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@8:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@14:XOR@8:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:INVERTER@4:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:INVERTER@4:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:INVERTER@5:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:INVERTER@5:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:MUX@0:NMOS@8_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:MUX@0:NMOS@9_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:MUX@0:PMOS@9_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:MUX@0:PMOS@10_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@6:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@6:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@6:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@6:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@7:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@7:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@7:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@7:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@8:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@8:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@8:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@15:XOR@8:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:INVERTER@4:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:INVERTER@4:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:INVERTER@5:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:INVERTER@5:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:MUX@0:NMOS@8_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:MUX@0:NMOS@9_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:MUX@0:PMOS@9_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:MUX@0:PMOS@10_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@6:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@6:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@6:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@6:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@7:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@7:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@7:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@7:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@8:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@8:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@8:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node FULL_ADD@16:XOR@8:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node INVERTER@10:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node INVERTER@10:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node INVERTER@11:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node INVERTER@11:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node INVERTER@12:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node INVERTER@12:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node INVERTER@13:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node INVERTER@13:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node INVERTER@14:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node INVERTER@14:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node INVERTER@15:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node INVERTER@15:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node INVERTER@16:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node INVERTER@16:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node INVERTER@17:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node INVERTER@17:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node NAND2@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node NAND2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node NAND2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node NAND2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node NAND2@1:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node NAND2@1:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node NAND2@1:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node NAND2@1:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node NOR2@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node NOR2@0:NMOS@2_N-TRANS-WELL is floating.
+WARNING: Node NOR2@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node NOR2@0:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node NOR2@1:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node NOR2@1:NMOS@2_N-TRANS-WELL is floating.
+WARNING: Node NOR2@1:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node NOR2@1:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node NOR2@2:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node NOR2@2:NMOS@2_N-TRANS-WELL is floating.
+WARNING: Node NOR2@2:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node NOR2@2:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node NOR2@3:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node NOR2@3:NMOS@2_N-TRANS-WELL is floating.
+WARNING: Node NOR2@3:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node NOR2@3:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node NOR2@4:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node NOR2@4:NMOS@2_N-TRANS-WELL is floating.
+WARNING: Node NOR2@4:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node NOR2@4:PMOS@1_P-TRANS-WELL is floating.
+WARNING: Node XOR@0:NMOS@0_N-TRANS-WELL is floating.
+WARNING: Node XOR@0:NMOS@1_N-TRANS-WELL is floating.
+WARNING: Node XOR@0:PMOS@0_P-TRANS-WELL is floating.
+WARNING: Node XOR@0:PMOS@1_P-TRANS-WELL is floating.
+
+WARNING: Less than two connections to node AND2_2OU@0:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@0:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@0:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@0:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@0:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@0:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@0:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@0:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@0:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@0:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@0:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@0:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@1:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@1:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@1:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@1:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@1:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@1:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@1:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@1:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@1:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@1:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@1:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@1:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@2:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@2:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@2:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@2:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@2:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@2:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@2:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@2:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@2:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@2:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@2:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@2:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@3:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@3:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@3:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@3:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@3:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@3:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@3:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@3:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@3:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@3:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@3:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@3:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@4:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@4:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@4:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@4:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@4:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@4:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@4:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@4:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@4:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@4:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@4:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@4:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@5:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@5:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@5:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@5:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@5:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@5:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@5:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@5:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@5:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@5:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@5:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@5:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@6:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@6:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@6:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@6:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@6:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@6:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@6:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@6:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@6:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@6:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@6:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@6:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@7:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@7:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@7:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@7:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@7:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@7:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@7:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@7:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@7:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@7:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@7:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@7:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@8:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@8:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@8:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@8:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@8:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@8:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@8:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@8:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@8:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@8:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@8:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@8:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@9:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@9:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@9:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@9:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@9:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@9:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@9:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@9:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@9:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@9:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@9:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@9:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@10:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@10:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@10:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@10:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@10:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@10:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@10:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@10:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@10:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@10:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@10:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@10:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@11:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@11:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@11:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@11:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@11:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@11:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@11:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@11:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@11:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@11:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@11:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@11:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@12:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@12:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@12:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@12:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@12:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@12:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@12:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@12:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@12:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@12:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@12:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@12:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@13:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@13:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@13:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@13:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@13:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@13:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@13:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@13:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@13:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@13:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@13:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@13:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@14:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@14:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@14:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@14:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@14:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@14:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@14:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@14:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@14:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@14:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@14:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@14:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node AND2_2OU@15:INVERTER@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@15:INVERTER@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@15:INVERTER@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@15:INVERTER@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@15:NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:AND2_2OU@15:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node AND2_2OU@15:NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:AND2_2OU@15:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node AND2_2OU@15:NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:AND2_2OU@15:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node AND2_2OU@15:NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:AND2_2OU@15:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@9:INVERTER@4:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:INVERTER@4:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:INVERTER@4:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:INVERTER@4:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:INVERTER@5:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:INVERTER@5:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:INVERTER@5:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:INVERTER@5:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:MUX@0:NMOS@8_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:MUX@0:NMOS@8.
+WARNING: Less than two connections to node FULL_ADD@9:MUX@0:NMOS@9_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:MUX@0:NMOS@9.
+WARNING: Less than two connections to node FULL_ADD@9:MUX@0:PMOS@9_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:MUX@0:PMOS@9.
+WARNING: Less than two connections to node FULL_ADD@9:MUX@0:PMOS@10_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:MUX@0:PMOS@10.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@6:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@6:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@6:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@6:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@6:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@6:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@6:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@6:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@7:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@7:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@7:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@7:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@7:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@7:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@7:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@7:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@8:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@8:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@8:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@8:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@8:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@8:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@9:XOR@8:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@9:XOR@8:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@10:INVERTER@4:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:INVERTER@4:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:INVERTER@4:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:INVERTER@4:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:INVERTER@5:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:INVERTER@5:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:INVERTER@5:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:INVERTER@5:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:MUX@0:NMOS@8_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:MUX@0:NMOS@8.
+WARNING: Less than two connections to node FULL_ADD@10:MUX@0:NMOS@9_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:MUX@0:NMOS@9.
+WARNING: Less than two connections to node FULL_ADD@10:MUX@0:PMOS@9_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:MUX@0:PMOS@9.
+WARNING: Less than two connections to node FULL_ADD@10:MUX@0:PMOS@10_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:MUX@0:PMOS@10.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@6:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@6:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@6:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@6:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@6:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@6:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@6:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@6:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@7:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@7:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@7:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@7:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@7:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@7:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@7:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@7:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@8:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@8:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@8:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@8:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@8:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@8:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@10:XOR@8:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@10:XOR@8:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@11:INVERTER@4:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:INVERTER@4:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:INVERTER@4:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:INVERTER@4:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:INVERTER@5:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:INVERTER@5:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:INVERTER@5:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:INVERTER@5:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:MUX@0:NMOS@8_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:MUX@0:NMOS@8.
+WARNING: Less than two connections to node FULL_ADD@11:MUX@0:NMOS@9_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:MUX@0:NMOS@9.
+WARNING: Less than two connections to node FULL_ADD@11:MUX@0:PMOS@9_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:MUX@0:PMOS@9.
+WARNING: Less than two connections to node FULL_ADD@11:MUX@0:PMOS@10_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:MUX@0:PMOS@10.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@6:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@6:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@6:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@6:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@6:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@6:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@6:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@6:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@7:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@7:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@7:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@7:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@7:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@7:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@7:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@7:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@8:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@8:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@8:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@8:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@8:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@8:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@11:XOR@8:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@11:XOR@8:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@12:INVERTER@4:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:INVERTER@4:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:INVERTER@4:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:INVERTER@4:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:INVERTER@5:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:INVERTER@5:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:INVERTER@5:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:INVERTER@5:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:MUX@0:NMOS@8_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:MUX@0:NMOS@8.
+WARNING: Less than two connections to node FULL_ADD@12:MUX@0:NMOS@9_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:MUX@0:NMOS@9.
+WARNING: Less than two connections to node FULL_ADD@12:MUX@0:PMOS@9_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:MUX@0:PMOS@9.
+WARNING: Less than two connections to node FULL_ADD@12:MUX@0:PMOS@10_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:MUX@0:PMOS@10.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@6:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@6:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@6:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@6:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@6:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@6:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@6:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@6:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@7:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@7:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@7:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@7:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@7:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@7:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@7:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@7:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@8:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@8:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@8:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@8:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@8:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@8:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@12:XOR@8:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@12:XOR@8:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@13:INVERTER@4:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:INVERTER@4:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:INVERTER@4:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:INVERTER@4:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:INVERTER@5:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:INVERTER@5:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:INVERTER@5:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:INVERTER@5:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:MUX@0:NMOS@8_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:MUX@0:NMOS@8.
+WARNING: Less than two connections to node FULL_ADD@13:MUX@0:NMOS@9_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:MUX@0:NMOS@9.
+WARNING: Less than two connections to node FULL_ADD@13:MUX@0:PMOS@9_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:MUX@0:PMOS@9.
+WARNING: Less than two connections to node FULL_ADD@13:MUX@0:PMOS@10_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:MUX@0:PMOS@10.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@6:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@6:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@6:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@6:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@6:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@6:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@6:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@6:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@7:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@7:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@7:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@7:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@7:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@7:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@7:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@7:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@8:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@8:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@8:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@8:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@8:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@8:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@13:XOR@8:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@13:XOR@8:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@14:INVERTER@4:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:INVERTER@4:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:INVERTER@4:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:INVERTER@4:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:INVERTER@5:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:INVERTER@5:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:INVERTER@5:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:INVERTER@5:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:MUX@0:NMOS@8_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:MUX@0:NMOS@8.
+WARNING: Less than two connections to node FULL_ADD@14:MUX@0:NMOS@9_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:MUX@0:NMOS@9.
+WARNING: Less than two connections to node FULL_ADD@14:MUX@0:PMOS@9_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:MUX@0:PMOS@9.
+WARNING: Less than two connections to node FULL_ADD@14:MUX@0:PMOS@10_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:MUX@0:PMOS@10.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@6:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@6:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@6:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@6:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@6:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@6:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@6:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@6:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@7:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@7:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@7:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@7:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@7:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@7:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@7:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@7:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@8:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@8:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@8:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@8:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@8:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@8:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@14:XOR@8:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@14:XOR@8:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@15:INVERTER@4:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:INVERTER@4:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:INVERTER@4:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:INVERTER@4:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:INVERTER@5:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:INVERTER@5:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:INVERTER@5:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:INVERTER@5:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:MUX@0:NMOS@8_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:MUX@0:NMOS@8.
+WARNING: Less than two connections to node FULL_ADD@15:MUX@0:NMOS@9_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:MUX@0:NMOS@9.
+WARNING: Less than two connections to node FULL_ADD@15:MUX@0:PMOS@9_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:MUX@0:PMOS@9.
+WARNING: Less than two connections to node FULL_ADD@15:MUX@0:PMOS@10_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:MUX@0:PMOS@10.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@6:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@6:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@6:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@6:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@6:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@6:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@6:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@6:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@7:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@7:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@7:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@7:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@7:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@7:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@7:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@7:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@8:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@8:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@8:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@8:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@8:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@8:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@15:XOR@8:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@15:XOR@8:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@16:INVERTER@4:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:INVERTER@4:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:INVERTER@4:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:INVERTER@4:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:INVERTER@5:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:INVERTER@5:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:INVERTER@5:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:INVERTER@5:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:MUX@0:NMOS@8_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:MUX@0:NMOS@8.
+WARNING: Less than two connections to node FULL_ADD@16:MUX@0:NMOS@9_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:MUX@0:NMOS@9.
+WARNING: Less than two connections to node FULL_ADD@16:MUX@0:PMOS@9_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:MUX@0:PMOS@9.
+WARNING: Less than two connections to node FULL_ADD@16:MUX@0:PMOS@10_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:MUX@0:PMOS@10.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@6:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@6:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@6:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@6:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@6:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@6:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@6:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@6:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@7:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@7:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@7:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@7:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@7:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@7:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@7:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@7:PMOS@1.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@8:NMOS@0_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@8:NMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@8:NMOS@1_N-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@8:NMOS@1.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@8:PMOS@0_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@8:PMOS@0.
+WARNING: Less than two connections to node FULL_ADD@16:XOR@8:PMOS@1_P-TRANS-WELL.  This node is used by M:FULL_ADD@16:XOR@8:PMOS@1.
+WARNING: Less than two connections to node INVERTER@10:NMOS@0_N-TRANS-WELL.  This node is used by M:INVERTER@10:NMOS@0.
+WARNING: Less than two connections to node INVERTER@10:PMOS@0_P-TRANS-WELL.  This node is used by M:INVERTER@10:PMOS@0.
+WARNING: Less than two connections to node INVERTER@11:NMOS@0_N-TRANS-WELL.  This node is used by M:INVERTER@11:NMOS@0.
+WARNING: Less than two connections to node INVERTER@11:PMOS@0_P-TRANS-WELL.  This node is used by M:INVERTER@11:PMOS@0.
+WARNING: Less than two connections to node INVERTER@12:NMOS@0_N-TRANS-WELL.  This node is used by M:INVERTER@12:NMOS@0.
+WARNING: Less than two connections to node INVERTER@12:PMOS@0_P-TRANS-WELL.  This node is used by M:INVERTER@12:PMOS@0.
+WARNING: Less than two connections to node INVERTER@13:NMOS@0_N-TRANS-WELL.  This node is used by M:INVERTER@13:NMOS@0.
+WARNING: Less than two connections to node INVERTER@13:PMOS@0_P-TRANS-WELL.  This node is used by M:INVERTER@13:PMOS@0.
+WARNING: Less than two connections to node INVERTER@14:NMOS@0_N-TRANS-WELL.  This node is used by M:INVERTER@14:NMOS@0.
+WARNING: Less than two connections to node INVERTER@14:PMOS@0_P-TRANS-WELL.  This node is used by M:INVERTER@14:PMOS@0.
+WARNING: Less than two connections to node INVERTER@15:NMOS@0_N-TRANS-WELL.  This node is used by M:INVERTER@15:NMOS@0.
+WARNING: Less than two connections to node INVERTER@15:PMOS@0_P-TRANS-WELL.  This node is used by M:INVERTER@15:PMOS@0.
+WARNING: Less than two connections to node INVERTER@16:NMOS@0_N-TRANS-WELL.  This node is used by M:INVERTER@16:NMOS@0.
+WARNING: Less than two connections to node INVERTER@16:PMOS@0_P-TRANS-WELL.  This node is used by M:INVERTER@16:PMOS@0.
+WARNING: Less than two connections to node INVERTER@17:NMOS@0_N-TRANS-WELL.  This node is used by M:INVERTER@17:NMOS@0.
+WARNING: Less than two connections to node INVERTER@17:PMOS@0_P-TRANS-WELL.  This node is used by M:INVERTER@17:PMOS@0.
+WARNING: Less than two connections to node NAND2@0:NMOS@0_N-TRANS-WELL.  This node is used by M:NAND2@0:NMOS@0.
+WARNING: Less than two connections to node NAND2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:NAND2@0:NMOS@1.
+WARNING: Less than two connections to node NAND2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:NAND2@0:PMOS@0.
+WARNING: Less than two connections to node NAND2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:NAND2@0:PMOS@1.
+WARNING: Less than two connections to node NAND2@1:NMOS@0_N-TRANS-WELL.  This node is used by M:NAND2@1:NMOS@0.
+WARNING: Less than two connections to node NAND2@1:NMOS@1_N-TRANS-WELL.  This node is used by M:NAND2@1:NMOS@1.
+WARNING: Less than two connections to node NAND2@1:PMOS@0_P-TRANS-WELL.  This node is used by M:NAND2@1:PMOS@0.
+WARNING: Less than two connections to node NAND2@1:PMOS@1_P-TRANS-WELL.  This node is used by M:NAND2@1:PMOS@1.
+WARNING: Less than two connections to node NOR2@0:NMOS@1_N-TRANS-WELL.  This node is used by M:NOR2@0:NMOS@1.
+WARNING: Less than two connections to node NOR2@0:NMOS@2_N-TRANS-WELL.  This node is used by M:NOR2@0:NMOS@2.
+WARNING: Less than two connections to node NOR2@0:PMOS@0_P-TRANS-WELL.  This node is used by M:NOR2@0:PMOS@0.
+WARNING: Less than two connections to node NOR2@0:PMOS@1_P-TRANS-WELL.  This node is used by M:NOR2@0:PMOS@1.
+WARNING: Less than two connections to node NOR2@1:NMOS@1_N-TRANS-WELL.  This node is used by M:NOR2@1:NMOS@1.
+WARNING: Less than two connections to node NOR2@1:NMOS@2_N-TRANS-WELL.  This node is used by M:NOR2@1:NMOS@2.
+WARNING: Less than two connections to node NOR2@1:PMOS@0_P-TRANS-WELL.  This node is used by M:NOR2@1:PMOS@0.
+WARNING: Less than two connections to node NOR2@1:PMOS@1_P-TRANS-WELL.  This node is used by M:NOR2@1:PMOS@1.
+WARNING: Less than two connections to node NOR2@2:NMOS@1_N-TRANS-WELL.  This node is used by M:NOR2@2:NMOS@1.
+WARNING: Less than two connections to node NOR2@2:NMOS@2_N-TRANS-WELL.  This node is used by M:NOR2@2:NMOS@2.
+WARNING: Less than two connections to node NOR2@2:PMOS@0_P-TRANS-WELL.  This node is used by M:NOR2@2:PMOS@0.
+WARNING: Less than two connections to node NOR2@2:PMOS@1_P-TRANS-WELL.  This node is used by M:NOR2@2:PMOS@1.
+WARNING: Less than two connections to node NOR2@3:NMOS@1_N-TRANS-WELL.  This node is used by M:NOR2@3:NMOS@1.
+WARNING: Less than two connections to node NOR2@3:NMOS@2_N-TRANS-WELL.  This node is used by M:NOR2@3:NMOS@2.
+WARNING: Less than two connections to node NOR2@3:PMOS@0_P-TRANS-WELL.  This node is used by M:NOR2@3:PMOS@0.
+WARNING: Less than two connections to node NOR2@3:PMOS@1_P-TRANS-WELL.  This node is used by M:NOR2@3:PMOS@1.
+WARNING: Less than two connections to node NOR2@4:NMOS@1_N-TRANS-WELL.  This node is used by M:NOR2@4:NMOS@1.
+WARNING: Less than two connections to node NOR2@4:NMOS@2_N-TRANS-WELL.  This node is used by M:NOR2@4:NMOS@2.
+WARNING: Less than two connections to node NOR2@4:PMOS@0_P-TRANS-WELL.  This node is used by M:NOR2@4:PMOS@0.
+WARNING: Less than two connections to node NOR2@4:PMOS@1_P-TRANS-WELL.  This node is used by M:NOR2@4:PMOS@1.
+WARNING: Less than two connections to node XOR@0:NMOS@0_N-TRANS-WELL.  This node is used by M:XOR@0:NMOS@0.
+WARNING: Less than two connections to node XOR@0:NMOS@1_N-TRANS-WELL.  This node is used by M:XOR@0:NMOS@1.
+WARNING: Less than two connections to node XOR@0:PMOS@0_P-TRANS-WELL.  This node is used by M:XOR@0:PMOS@0.
+WARNING: Less than two connections to node XOR@0:PMOS@1_P-TRANS-WELL.  This node is used by M:XOR@0:PMOS@1.
+Per .tran options, skipping operating point for transient analysis.
+Ignoring empty pin current: Ix(xor@0:gnd)
+Ignoring empty pin current: Ix(xor@0:vdd)
+
+Date: Fri Jan 02 01:03:55 2026
+Total elapsed time: 0.334 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 467
+traniter = 467
+tranpoints = 124
+accept = 102
+rejected = 22
+matrix size = 463
+fillins = 76
+solver = Normal
+

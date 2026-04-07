@@ -1,0 +1,80 @@
+*** SPICE deck for cell Multiplier_Cell_Full{lay} from library Project
+*** Created on Çar Ara 17, 2025 00:30:05
+*** Last revised on Çar Ara 17, 2025 00:58:12
+*** Written on Çar Ara 17, 2025 00:58:17 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+*** SUBCIRCUIT Project__Inverter FROM CELL Inverter{lay}
+.SUBCKT Project__Inverter gnd in out vdd
+Mnmos@0 out in gnd gnd N L=0.6U W=3U AS=24.75P AD=10.125P PS=37.5U PD=13.5U
+Mpmos@0 out in vdd vdd P L=0.6U W=6U AS=35.1P AD=10.125P PS=44.1U PD=13.5U
+
+* Spice Code nodes in cell cell 'Inverter{lay}'
+.include C:\VLSI\C5_models.txt
+.ENDS Project__Inverter
+
+*** SUBCIRCUIT Project__Nand2 FROM CELL Nand2{lay}
+.SUBCKT Project__Nand2 a b gnd vdd y
+Mnmos@0 net@55 b gnd gnd N L=0.6U W=4.5U AS=37.125P AD=4.05P PS=52.5U PD=6.3U
+Mnmos@1 y a net@55 gnd N L=0.6U W=4.5U AS=4.05P AD=7.875P PS=6.3U PD=9.5U
+Mpmos@0 y b vdd vdd P L=0.6U W=4.5U AS=26.325P AD=7.875P PS=33.3U PD=9.5U
+Mpmos@1 vdd a y vdd P L=0.6U W=4.5U AS=7.875P AD=26.325P PS=9.5U PD=33.3U
+
+* Spice Code nodes in cell cell 'Nand2{lay}'
+.include C:\VLSI\C5_models.txt
+.ENDS Project__Nand2
+
+*** SUBCIRCUIT Project__And2_2out FROM CELL And2_2out{lay}
+.SUBCKT Project__And2_2out a b gnd vdd y y_bar
+XInverter@0 gnd y_bar y vdd Project__Inverter
+XNAND2@0 a b gnd vdd y_bar Project__Nand2
+.ENDS Project__And2_2out
+
+*** SUBCIRCUIT Project__Mux FROM CELL Mux{lay}
+.SUBCKT Project__Mux gnd in0 in1 out sel sel_bar vdd
+Mnmos@8 out sel_bar in0 gnd N L=0.6U W=3U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mnmos@9 in1 sel out gnd N L=0.6U W=3U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+Mpmos@9 out sel in0 vdd P L=0.6U W=6U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mpmos@10 in1 sel_bar out vdd P L=0.6U W=6U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+
+* Spice Code nodes in cell cell 'Mux{lay}'
+.include C:\VLSI\C5_models.txt
+.ENDS Project__Mux
+
+*** SUBCIRCUIT Project__Xor FROM CELL Xor{lay}
+.SUBCKT Project__Xor a a_bar b b_bar gnd out vdd
+Mnmos@0 out a_bar b gnd N L=0.6U W=3U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mnmos@1 b_bar a out gnd N L=0.6U W=3U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+Mpmos@0 out a b vdd P L=0.6U W=6U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mpmos@1 b_bar a_bar out vdd P L=0.6U W=6U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+
+* Spice Code nodes in cell cell 'Xor{lay}'
+.include C:\VLSI\C5_models.txt
+.ENDS Project__Xor
+
+*** SUBCIRCUIT Project__Full_Adder_Multiplier FROM CELL Full_Adder_Multiplier{lay}
+.SUBCKT Project__Full_Adder_Multiplier a a_bar b b_bar cin cin_bar cout gnd sum vdd
+XInverter@1 gnd net@6 net@13 vdd Project__Inverter
+XMux@0 gnd b cin cout net@6 net@13 vdd Project__Mux
+XXor@1 a a_bar b b_bar gnd net@6 vdd Project__Xor
+XXor@2 net@6 net@13 cin cin_bar gnd sum vdd Project__Xor
+.ENDS Project__Full_Adder_Multiplier
+
+*** TOP LEVEL CELL: Multiplier_Cell_Full{lay}
+XAnd2_2ou@0 ina inb gnd vdd net@9 net@13 Project__And2_2out
+XFull_Add@0 net@9 net@13 infull infull_bar cin cin_bar cout gnd sum vdd Project__Full_Adder_Multiplier
+XInverter@0 gnd cout cout_bar vdd Project__Inverter
+
+* Spice Code nodes in cell cell 'Multiplier_Cell_Full{lay}'
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vin infull 0 PULSE(0 5 20ns 1n 1n 20n 40n)
+Vin_b infull_bar 0 PULSE(5 0 20ns 1n 1n 20n 40n)
+Vcin cin 0 PULSE(0 5 40ns 1n 1n 40n 80n)
+Vcin_b cin_bar 0 PULSE(5 0 40ns 1n 1n 40n 80n)
+Vb inb 0 PULSE(0 5 80ns 1n 1n 80n 160n)
+Va ina 0 PULSE(0 5 160ns 1n 1n 160n 320n)
+.tran 320n
+.end
+.END

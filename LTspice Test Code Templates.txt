@@ -1,0 +1,242 @@
+// Inverter
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vin in 0 PULSE(0 5 20ns 1n 1n 20n 40n)
+.tran 120n
+.end
+
+// MUX
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vin0 in0 0 DC 0
+Vin1 in1 0 DC 5
+Vsel sel 0 PULSE(0 5 20ns 1n 1n 20n 40n)
+Vsel_b sel_bar 0 PULSE(5 0 20ns 1n 1n 20n 40n)
+.tran 120n
+.end
+
+// XOR - Half Adder
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vb   b     0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Vb_b b_bar 0 PULSE(5 0 20ns 5p 5p 20n 40n)
+Va   a     0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Va_b a_bar 0 PULSE(5 0 40ns 5p 5p 40n 80n)
+.tran 80n
+.end
+
+// Full Adder
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vm m 0 DC 0
+Vm_b m_bar 0 DC 5
+Vcin cin 0 PULSE(0 5 20ns 1n 1n 20n 40n)
+Vcin_b cin_bar 0 PULSE(5 0 20ns 1n 1n 20n 40n)
+Vb b 0 PULSE(0 5 40ns 1n 1n 40n 80n)
+Vb_b b_bar 0 PULSE(5 0 40ns 1n 1n 40n 80n)
+Va a 0 PULSE(0 5 80ns 1n 1n 80n 160n)
+Va_b a_bar 0 PULSE(5 0 80ns 1n 1n160n 160n)
+.tran 160n
+.end
+
+// NAND - AND - NOR - OR
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Va a 0 PULSE(0 5 40ns 1p 1p 40n 80n)
+Vb b 0 PULSE(0 5 20ns 1p 1p 20n 40n)
+.tran 80n
+.end
+
+// Aritmetic Unit
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Va0 a[0] 0 DC 0
+Va1 a[1] 0 DC 0
+Va2 a[2] 0 DC 0
+Va3 a[3] 0 DC 0
+Va4 a[4] 0 DC 0
+Va5 a[5] 0 DC 0
+Va6 a[6] 0 DC 0
+Va7 a[7] 0 DC 0
+Vb0 b[0] 0 DC 0
+Vb1 b[1] 0 DC 0
+Vb2 b[2] 0 DC 0
+Vb3 b[3] 0 DC 0
+Vb4 b[4] 0 DC 0
+Vb5 b[5] 0 DC 0
+Vb6 b[6] 0 DC 0
+Vb7 b[7] 0 DC 0
+Vm m 0 DC 0
+Vm_b m_bar 0 DC 5
+Ven en 0 DC 5
+.tran 20n
+.end
+
+// Mini Multiplier Cell
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vin inhalf 0 PULSE(0 5 20ns 1n 1n 20n 40n)
+Vin_b inhalf_bar 0 PULSE(5 0 20ns 1n 1n 20n 40n)
+Vb inb 0 PULSE(0 5 40ns 1n 1n 40n 80n)
+Va ina 0 PULSE(0 5 80ns 1n 1n 80n 160n)
+.tran 160n
+.end
+
+// Full Multiplier Cell
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vin infull 0 PULSE(0 5 20ns 1n 1n 20n 40n)
+Vin_b infull_bar 0 PULSE(5 0 20ns 1n 1n 20n 40n)
+Vcin cin 0 PULSE(0 5 40ns 1n 1n 40n 80n)
+Vcin_b cin_bar 0 PULSE(5 0 40ns 1n 1n 40n 80n)
+Vb inb 0 PULSE(0 5 80ns 1n 1n 80n 160n)
+Va ina 0 PULSE(0 5 160ns 1n 1n 160n 320n)
+.tran 320n
+.end
+
+// Multiplier Unit
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Ven en 0 DC 5
+Va0 a[0] 0 DC 0
+Va1 a[1] 0 DC 0
+Va2 a[2] 0 DC 0
+Va3 a[3] 0 DC 0
+Va4 a[4] 0 DC 0
+Va5 a[5] 0 DC 0
+Va6 a[6] 0 DC 0
+Va7 a[7] 0 DC 0
+Vb0 b[0] 0 DC 0
+Vb1 b[1] 0 DC 0
+Vb2 b[2] 0 DC 0
+Vb3 b[3] 0 DC 0
+Vb4 b[4] 0 DC 0
+Vb5 b[5] 0 DC 0
+Vb6 b[6] 0 DC 0
+Vb7 b[7] 0 DC 0
+.tran 20n
+.end
+
+// Logic Unit
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Va0 a[0] 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Va1 a[1] 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Va2 a[2] 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Va3 a[3] 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Va4 a[4] 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Va5 a[5] 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Va6 a[6] 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Va7 a[7] 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Vb0 b[0] 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vb1 b[1] 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vb2 b[2] 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vb3 b[3] 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vb4 b[4] 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vb5 b[5] 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vb6 b[6] 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vb7 b[7] 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vop0 op0 0 DC 0
+Vop0_b op0_bar 0 DC 5
+Vop2 op2 0 DC 0
+Vop2_b op2_bar 0 DC 5
+Vop3 op3 0 DC 0
+Vop3_b op3_bar 0 DC 5
+Ven en 0 DC 5
+.tran 80n
+.end
+
+// Input Control Unit
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vop0 op0 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Vop1 op1 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vop2 op2 0 PULSE(0 5 80ns 5p 5p 80n 160n)
+Vop3 op3 0 PULSE(0 5 160ns 5p 5p 160n 320n)
+.tran 320n
+.end
+
+// Shifter Unit
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Va0 a[0] 0 DC 5
+Va1 a[1] 0 DC 5
+Va2 a[2] 0 DC 0
+Va3 a[3] 0 DC 5
+Va4 a[4] 0 DC 5
+Va5 a[5] 0 DC 5
+Va6 a[6] 0 DC 0
+Va7 a[7] 0 DC 5
+Vop0 op0 0 DC 0
+Vop2 op2 0 DC 0
+Vop3 op3 0 DC 0
+.tran 20n
+.end
+
+// ALU
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Va0 a[0] 0 DC 5
+Va1 a[1] 0 DC 0
+Va2 a[2] 0 DC 5
+Va3 a[3] 0 DC 5
+Va4 a[4] 0 DC 5
+Va5 a[5] 0 DC 0
+Va6 a[6] 0 DC 5
+Va7 a[7] 0 DC 5
+Vb0 b[0] 0 DC 5
+Vb1 b[1] 0 DC 0
+Vb2 b[2] 0 DC 5
+Vb3 b[3] 0 DC 0
+Vb4 b[4] 0 DC 5
+Vb5 b[5] 0 DC 0
+Vb6 b[6] 0 DC 5
+Vb7 b[7] 0 DC 0
+Vop0 opcode[0] 0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Vop1 opcode[1] 0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Vop2 opcode[2] 0 PULSE(0 5 80ns 5p 5p 80n 160n)
+Vop3 opcode[3] 0 PULSE(0 5 160ns 5p 5p 160n 320n)
+.tran 320n
+.end
+
+// Report Code
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 PWL(0 0 1n 5)
+Va0 A[0] 0 PWL(0 0 1n 0 2n 5)
+Va1 A[1] 0 PWL(0 0 1n 0 2n 5)
+Va2 A[2] 0 DC 0
+Va3 A[3] 0 DC 0
+Va4 A[4] 0 DC 0
+Va5 A[5] 0 DC 0
+Va6 A[6] 0 PWL(0 0 1n 0 2n 5)
+Va7 A[7] 0 DC 0
+Vb0 B[0] 0 PWL(0 0 1n 0 2n 5)
+Vb1 B[1] 0 DC 0
+Vb2 B[2] 0 PWL(0 0 1n 0 2n 5)
+Vb3 B[3] 0 DC 0
+Vb4 B[4] 0 DC 0
+Vb5 B[5] 0 DC 0
+Vb6 B[6] 0 DC 0
+Vb7 B[7] 0 DC 0
+Vop0 Opcode[0] 0 DC 0
+Vop1 Opcode[1] 0 DC 5
+Vop2 Opcode[2] 0 DC 5
+Vop3 Opcode[3] 0 DC 5
+.ic V(result[0])=0
+.ic V(result[1])=0
+.ic V(result[2])=0
+.ic V(result[3])=0
+.ic V(result[4])=0
+.ic V(result[5])=0
+.ic V(result[6])=0
+.ic V(result[7])=0
+.ic V(result[8])=0
+.ic V(result[9])=0
+.ic V(result[10])=0
+.ic V(result[11])=0
+.ic V(result[12])=0
+.ic V(result[13])=0
+.ic V(result[14])=0
+.ic V(result[15])=0
+.tran 0 20n 0 1n uic
+.end

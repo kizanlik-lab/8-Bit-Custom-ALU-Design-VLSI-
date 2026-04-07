@@ -1,0 +1,11 @@
+Circuit: *** SPICE deck for cell And2_2out{sch} from library Project
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Fatal Error: No analysis request found.

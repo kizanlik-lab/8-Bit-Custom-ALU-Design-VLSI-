@@ -1,0 +1,58 @@
+*** SPICE deck for cell Shifter_Unit{lay} from library Project
+*** Created on Paz Ara 21, 2025 15:23:04
+*** Last revised on Paz Ara 21, 2025 17:59:25
+*** Written on Paz Ara 21, 2025 17:59:29 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+*** SUBCIRCUIT Project__Inverter FROM CELL Inverter{lay}
+.SUBCKT Project__Inverter gnd in out vdd
+Mnmos@0 out in gnd gnd N L=0.6U W=3U AS=24.75P AD=10.125P PS=37.5U PD=13.5U
+Mpmos@0 out in vdd vdd P L=0.6U W=6U AS=35.1P AD=10.125P PS=44.1U PD=13.5U
+
+* Spice Code nodes in cell cell 'Inverter{lay}'
+.include C:\VLSI\C5_models.txt
+.ENDS Project__Inverter
+
+*** SUBCIRCUIT Project__Mux FROM CELL Mux{lay}
+.SUBCKT Project__Mux gnd in0 in1 out sel sel_bar vdd
+Mnmos@8 out sel_bar in0 gnd N L=0.6U W=3U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mnmos@9 in1 sel out gnd N L=0.6U W=3U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+Mpmos@9 out sel in0 vdd P L=0.6U W=6U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mpmos@10 in1 sel_bar out vdd P L=0.6U W=6U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+
+* Spice Code nodes in cell cell 'Mux{lay}'
+.include C:\VLSI\C5_models.txt
+.ENDS Project__Mux
+
+*** TOP LEVEL CELL: Shifter_Unit{lay}
+XInverter@0 gnd op3 op3_bar vdd Project__Inverter
+XInverter@1 gnd op2 op2_bar vdd Project__Inverter
+XInverter@2 gnd op0 op0_bar vdd Project__Inverter
+XMux@0 gnd gnd a[1] sh[0] op0 op0_bar vdd Project__Mux
+XMux@1 gnd a[0] a[2] sh[1] op0 op0_bar vdd Project__Mux
+XMux@2 gnd a[1] a[3] sh[2] op0 op0_bar vdd Project__Mux
+XMux@3 gnd a[3] a[5] sh[4] op0 op0_bar vdd Project__Mux
+XMux@4 gnd a[2] a[4] sh[3] op0 op0_bar vdd Project__Mux
+XMux@5 gnd a[5] a[7] sh[6] op0 op0_bar vdd Project__Mux
+XMux@6 gnd a[4] a[6] sh[5] op0 op0_bar vdd Project__Mux
+XMux@7 gnd a[7] gnd net@310 op3_bar op3 vdd Project__Mux
+XMux@8 gnd a[6] net@310 sh[7] op0 op0_bar vdd Project__Mux
+
+* Spice Code nodes in cell cell 'Shifter_Unit{lay}'
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Va0 a[0] 0 DC 5
+Va1 a[1] 0 DC 5
+Va2 a[2] 0 DC 0
+Va3 a[3] 0 DC 5
+Va4 a[4] 0 DC 5
+Va5 a[5] 0 DC 5
+Va6 a[6] 0 DC 0
+Va7 a[7] 0 DC 5
+Vop0 op0 0 DC 5
+Vop2 op2 0 DC 0
+Vop3 op3 0 DC 5
+.tran 20n
+.end
+.END

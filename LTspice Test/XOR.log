@@ -1,0 +1,26 @@
+Circuit: *** SPICE deck for cell XOR{lay} from library Project
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Dec 14 19:31:45 2025
+Total elapsed time: 0.218 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2664
+traniter = 2655
+tranpoints = 1281
+accept = 1212
+rejected = 69
+matrix size = 11
+fillins = 0
+solver = Normal
+Matrix Compiler1: 558 bayt object code size  0.1/0.0/[0.0]
+Matrix Compiler2: 915 bayt object code size  0.1/0.1/[0.1]
+
+

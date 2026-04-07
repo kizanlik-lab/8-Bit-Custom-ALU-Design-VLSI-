@@ -1,0 +1,23 @@
+*** SPICE deck for cell MUX{lay} from library Project
+*** Created on Cum Ara 12, 2025 23:24:55
+*** Last revised on Cmt Ara 13, 2025 21:42:16
+*** Written on Cmt Ara 13, 2025 21:42:30 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+*** TOP LEVEL CELL: MUX{lay}
+Mnmos@4 out sel_bar in0 gnd N L=0.6U W=3U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mnmos@5 in1 sel out gnd N L=0.6U W=3U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+Mpmos@5 out sel in0 vdd P L=0.6U W=6U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mpmos@6 in1 sel_bar out vdd P L=0.6U W=6U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+
+* Spice Code nodes in cell cell 'MUX{lay}'
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vin0 in0 0 DC 0
+Vin1 in1 0 DC 5
+Vsel sel 0 PULSE(0 5 20ns 1n 1n 20n 40n)
+Vsel_b sel_bar 0 PULSE(5 0 20ns 1n 1n 20n 40n)
+.tran 120n
+.end
+.END

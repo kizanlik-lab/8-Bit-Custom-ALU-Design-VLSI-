@@ -1,0 +1,23 @@
+*** SPICE deck for cell XOR{lay} from library Project
+*** Created on Cmt Ara 13, 2025 00:52:30
+*** Last revised on Cmt Ara 13, 2025 21:31:57
+*** Written on Cmt Ara 13, 2025 21:32:04 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+*** TOP LEVEL CELL: XOR{lay}
+Mnmos@0 out a_bar b gnd N L=0.6U W=3U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mnmos@1 b_bar a out gnd N L=0.6U W=3U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+Mpmos@0 out a b vdd P L=0.6U W=6U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mpmos@1 b_bar a_bar out vdd P L=0.6U W=6U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+
+* Spice Code nodes in cell cell 'XOR{lay}'
+.include C:\VLSI\C5_models.txt
+Vdd vdd 0 DC 5
+Vb   b     0 PULSE(0 5 20ns 5p 5p 20n 40n)
+Vb_b b_bar 0 PULSE(5 0 20ns 5p 5p 20n 40n)
+Va   a     0 PULSE(0 5 40ns 5p 5p 40n 80n)
+Va_b a_bar 0 PULSE(5 0 40ns 5p 5p 40n 80n)
+.tran 80n11
+.end
+.END

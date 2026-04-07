@@ -1,0 +1,59 @@
+*** SPICE deck for cell Full_Adder{lay} from library Project
+*** Created on Cmt Ara 13, 2025 01:09:17
+*** Last revised on Sal Ara 16, 2025 01:03:55
+*** Written on Sal Ara 16, 2025 01:03:59 by Electric VLSI Design System, version 9.07
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+*** SUBCIRCUIT Project__Inverter FROM CELL Inverter{lay}
+.SUBCKT Project__Inverter gnd in out vdd
+Mnmos@0 out in gnd gnd N L=0.6U W=3U AS=24.75P AD=10.125P PS=37.5U PD=13.5U
+Mpmos@0 out in vdd vdd P L=0.6U W=6U AS=35.1P AD=10.125P PS=44.1U PD=13.5U
+
+* Spice Code nodes in cell cell 'Inverter{lay}'
+.include C:\VLSI\C5_models.txt
+.ENDS Project__Inverter
+
+*** SUBCIRCUIT Project__MUX FROM CELL MUX{lay}
+.SUBCKT Project__MUX gnd in0 in1 out sel sel_bar vdd
+Mnmos@8 out sel_bar in0 gnd N L=0.6U W=3U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mnmos@9 in1 sel out gnd N L=0.6U W=3U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+Mpmos@9 out sel in0 vdd P L=0.6U W=6U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mpmos@10 in1 sel_bar out vdd P L=0.6U W=6U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+
+* Spice Code nodes in cell cell 'MUX{lay}'
+.include C:\VLSI\C5_models.txt
+.ENDS Project__MUX
+
+*** SUBCIRCUIT Project__XOR FROM CELL XOR{lay}
+.SUBCKT Project__XOR a a_bar b b_bar gnd out vdd
+Mnmos@0 out a_bar b gnd N L=0.6U W=3U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mnmos@1 b_bar a out gnd N L=0.6U W=3U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+Mpmos@0 out a b vdd P L=0.6U W=6U AS=10.125P AD=6.75P PS=13.5U PD=7.5U
+Mpmos@1 b_bar a_bar out vdd P L=0.6U W=6U AS=6.75P AD=10.125P PS=7.5U PD=13.5U
+
+* Spice Code nodes in cell cell 'XOR{lay}'
+.include C:\VLSI\C5_models.txt
+.ENDS Project__XOR
+
+*** TOP LEVEL CELL: Full_Adder{lay}
+XInverter@4 gnd net@145 net@148 vdd Project__Inverter
+XInverter@5 gnd net@157 net@190 vdd Project__Inverter
+XMUX@0 gnd a cin cout net@157 net@190 vdd Project__MUX
+XXOR@6 m m_bar b b_bar gnd net@145 vdd Project__XOR
+XXOR@7 net@145 net@148 a a_bar gnd net@157 vdd Project__XOR
+XXOR@8 net@157 net@190 cin cin_bar gnd sum vdd Project__XOR
+
+* Spice Code nodes in cell cell 'Full_Adder{lay}'
+Vdd vdd 0 DC 5
+Vm m 0 DC 0
+Vm_b m_bar 0 DC 5
+Vcin cin 0 PULSE(0 5 20ns 1n 1n 20n 40n)
+Vcin_b cin_bar 0 PULSE(5 0 20ns 1n 1n 20n 40n)
+Vb b 0 PULSE(0 5 40ns 1n 1n 40n 80n)
+Vb_b b_bar 0 PULSE(5 0 40ns 1n 1n 40n 80n)
+Va a 0 PULSE(0 5 80ns 1n 1n 80n 160n)
+Va_b a_bar 0 PULSE(5 0 80ns 1n 1n160n 160n)
+.tran 160n
+.end
+.END
